@@ -813,9 +813,14 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int ic_action_tick=0x7f020057;
-        public static final int round_button=0x7f020058;
-        public static final int transparent=0x7f020059;
+        public static final int brain=0x7f020057;
+        public static final int ic_action_tick=0x7f020058;
+        public static final int menu2=0x7f020059;
+        public static final int menu3=0x7f02005a;
+        public static final int rectangle=0x7f02005b;
+        public static final int round_button=0x7f02005c;
+        public static final int test=0x7f02005d;
+        public static final int transparent=0x7f02005e;
     }
     public static final class id {
         public static final int action_bar=0x7f08001c;
@@ -829,7 +834,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f080001;
         public static final int action_menu_presenter=0x7f080002;
         public static final int action_mode_close_button=0x7f080024;
-        public static final int action_settings=0x7f08004b;
+        public static final int action_settings=0x7f080051;
         public static final int activity_chooser_view_content=0x7f080025;
         public static final int always=0x7f080013;
         public static final int beginning=0x7f08000f;
@@ -851,9 +856,14 @@ containing a value of this type.
         public static final int icon=0x7f08002a;
         public static final int ifRoom=0x7f080015;
         public static final int image=0x7f080027;
+        public static final int imageView=0x7f08004e;
+        public static final int imageView2=0x7f08004f;
+        public static final int imageView3=0x7f08004a;
         public static final int listMode=0x7f080006;
         public static final int list_item=0x7f080029;
+        public static final int listview_background_shape=0x7f080050;
         public static final int middle=0x7f080011;
+        public static final int myRectangleView=0x7f080049;
         public static final int never=0x7f080016;
         public static final int none=0x7f080012;
         public static final int normal=0x7f080007;
@@ -861,7 +871,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f080004;
         public static final int progress_horizontal=0x7f080005;
         public static final int radio=0x7f08002f;
-        public static final int round_button=0x7f08004a;
+        public static final int round_button=0x7f08004c;
         public static final int search_badge=0x7f080032;
         public static final int search_bar=0x7f080031;
         public static final int search_button=0x7f080033;
@@ -879,8 +889,9 @@ containing a value of this type.
         public static final int split_action_bar=0x7f08001e;
         public static final int submit_area=0x7f080039;
         public static final int tabMode=0x7f080008;
-        public static final int textView=0x7f080049;
+        public static final int textView=0x7f08004d;
         public static final int textView1=0x7f080042;
+        public static final int textView10=0x7f08004b;
         public static final int textView2=0x7f08003f;
         public static final int textView3=0x7f08003e;
         public static final int textView4=0x7f080040;
@@ -932,7 +943,6 @@ containing a value of this type.
         public static final int ios_frag=0x7f03001e;
         public static final int stroop_test=0x7f03001f;
         public static final int support_simple_spinner_dropdown_item=0x7f030020;
-        public static final int windows_frag=0x7f030021;
     }
     public static final class menu {
         public static final int result=0x7f0c0000;

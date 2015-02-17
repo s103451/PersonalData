@@ -8,10 +8,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.cognetive.app.Result$PlaceholderFragment" >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+
 
 </RelativeLayout>
 <!-- From: file:/C:/Users/Damir/AndroidStudioProjects/uahsuashs/app/src/main/res/layout/fragment_result.xml -->
