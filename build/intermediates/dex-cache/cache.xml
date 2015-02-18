@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Damir\AndroidStudioProjects\uahsuashs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jar="/Users/Falch/AndroidStudioProjects/PersonalData/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="C:\Users\Damir\AndroidStudioProjects\uahsuashs\app\build\intermediates\pre-dexed\debug\classes-28175a9dd4c1d4f5ccaf272f6a76c18f1f0d7aee.jar" />
+        <dex dex="/Users/Falch/AndroidStudioProjects/PersonalData/app/build/intermediates/pre-dexed/debug/classes-8bd40792aa584364fe4d900295a2acb2e809061a.jar" />
     </item>
     <item
-        jar="C:\Users\Damir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jar="/Users/Falch/eclipse-Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\Damir\AndroidStudioProjects\uahsuashs\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c597ad74dd70efdadc8425716ce30725a5a9705e.jar" />
+        <dex dex="/Users/Falch/AndroidStudioProjects/PersonalData/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-35037fa5707d1c1c5a8c362142d088c9c5c180a6.jar" />
     </item>
 
 </items>
