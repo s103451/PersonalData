@@ -1,3 +1,3 @@
-C:\Users\Damir\AndroidStudioProjects\uahsuashs\app\build\intermediates\classes\debug
-C:\Users\Damir\AndroidStudioProjects\uahsuashs\app\build\intermediates\pre-dexed\debug\classes-28175a9dd4c1d4f5ccaf272f6a76c18f1f0d7aee.jar
-C:\Users\Damir\AndroidStudioProjects\uahsuashs\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c597ad74dd70efdadc8425716ce30725a5a9705e.jar
+/Users/Falch/AndroidStudioProjects/PersonalData/app/build/intermediates/classes/debug
+/Users/Falch/AndroidStudioProjects/PersonalData/app/build/intermediates/pre-dexed/debug/classes-8bd40792aa584364fe4d900295a2acb2e809061a.jar
+/Users/Falch/AndroidStudioProjects/PersonalData/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-35037fa5707d1c1c5a8c362142d088c9c5c180a6.jar

@@ -19,10 +19,10 @@ public class Statistics extends Fragment {
 	        ((TextView)ios.findViewById(R.id.textView)).setText("PROGRESS");
          ios.setBackgroundColor(Color.parseColor("#d3d3d3"));
          ImageView img= (ImageView) ios.findViewById(R.id.imageView);
-         img.setImageResource(R.drawable.test);
+        // img.setImageResource(R.drawable.test);
 
          ImageView img2= (ImageView) ios.findViewById(R.id.imageView2);
-         img2.setImageResource(R.drawable.menu3);
+         //img2.setImageResource(R.drawable.menu3);
 
 	      return ios;
 }}

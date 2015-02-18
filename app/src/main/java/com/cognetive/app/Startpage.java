@@ -1,6 +1,7 @@
 package com.cognetive.app;
 
 import com.example.uahsuashs.R;
+import com.example.uahsuashs.ReactionTimeActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -22,14 +23,14 @@ public class Startpage extends Fragment {
 	        button=(Button)android.findViewById(R.id.round_button);
 	        button.setOnClickListener(new View.OnClickListener() {
                 public void onClick(View v) {
-                	Intent intent = new Intent(getActivity(), Game_Stroop.class);
+                	Intent intent = new Intent(getActivity(), ReactionTimeActivity.class);
                 	startActivity(intent);
                 }
             });
 
-            ImageView img= (ImageView) android.findViewById(R.id.imageView3);
-            img.setImageResource(R.drawable.brain);
-            img.getLayoutParams().width = 290;
+            //ImageView img= (ImageView) android.findViewById(R.id.imageView3);
+            //img.setImageResource(R.drawable.brain);
+            //img.getLayoutParams().width = 290;
 
 
         return android;
