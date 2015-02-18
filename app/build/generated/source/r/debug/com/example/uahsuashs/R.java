@@ -813,9 +813,14 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int ic_action_tick=0x7f020057;
-        public static final int round_button=0x7f020058;
-        public static final int transparent=0x7f020059;
+        public static final int brain=0x7f020057;
+        public static final int ic_action_tick=0x7f020058;
+        public static final int menu2=0x7f020059;
+        public static final int menu3=0x7f02005a;
+        public static final int rectangle=0x7f02005b;
+        public static final int round_button=0x7f02005c;
+        public static final int test=0x7f02005d;
+        public static final int transparent=0x7f02005e;
     }
     public static final class id {
         public static final int action_bar=0x7f08001c;
@@ -829,7 +834,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f080001;
         public static final int action_menu_presenter=0x7f080002;
         public static final int action_mode_close_button=0x7f080024;
-        public static final int action_settings=0x7f080057;
+        public static final int action_settings=0x7f080058;
         public static final int activity_chooser_view_content=0x7f080025;
         public static final int always=0x7f080013;
         public static final int background=0x7f08003d;
@@ -860,6 +865,7 @@ containing a value of this type.
         public static final int linearLayout=0x7f08003e;
         public static final int listMode=0x7f080006;
         public static final int list_item=0x7f080029;
+        public static final int listview_background_shape=0x7f080057;
         public static final int middle=0x7f080011;
         public static final int myRectangleView=0x7f080050;
         public static final int never=0x7f080016;

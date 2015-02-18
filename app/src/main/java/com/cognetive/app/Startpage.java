@@ -28,9 +28,9 @@ public class Startpage extends Fragment {
                 }
             });
 
-            //ImageView img= (ImageView) android.findViewById(R.id.imageView3);
-            //img.setImageResource(R.drawable.brain);
-            //img.getLayoutParams().width = 290;
+            ImageView img= (ImageView) android.findViewById(R.id.imageView3);
+            img.setImageResource(R.drawable.brain);
+            img.getLayoutParams().width = 290;
 
 
         return android;

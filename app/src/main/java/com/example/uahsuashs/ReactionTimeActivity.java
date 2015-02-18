@@ -33,6 +33,8 @@ public class ReactionTimeActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_reaction_time);
+        android.app.ActionBar actionBar = getActionBar();
+        actionBar.hide();
 
 //        Intent k = new Intent(MainActivity.this, TestEnd.class);
 //        startActivity(k);
